@@ -6,7 +6,7 @@ var (
 	// SessionRegion ... region name
 	SessionRegion = "gz-tst"
 	// SessionURL ... s3 connection url
-	SessionURL = "cos.gz-tst.cos.tg.unicom.local"
+	SessionURL = ""
 	AccessKey  = "EDEHBIZHAPTBR85JBXZY"
 	SecretKey  = "g0fnOS2MIGSZ5QBcQcSZWmVeMY3PCbrUGBJv0yIX"
 )
