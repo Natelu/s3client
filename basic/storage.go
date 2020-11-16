@@ -1,4 +1,4 @@
-package main
+package basic
 
 import (
 	"context"
@@ -59,4 +59,9 @@ func IsAwsContextCanceled(err error) bool {
 	}
 
 	return false
+}
+
+// Save2LocalPath ... save Object to local path.
+func Save2LocalPath(p string, obj *Object) {
+
 }

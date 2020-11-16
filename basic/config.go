@@ -6,9 +6,11 @@ var (
 	// SessionRegion ... region name
 	SessionRegion = "gz-tst"
 	// SessionURL ... s3 connection url
-	SessionURL = ""
-	AccessKey  = "EDEHBIZHAPTBR85JBXZY"
-	SecretKey  = "g0fnOS2MIGSZ5QBcQcSZWmVeMY3PCbrUGBJv0yIX"
+	SessionURL = "cos.gz-tst.cos.tg.unicom.local"
+	// AccessKey ... s3 tracsaction key
+	AccessKey = "EDEHBIZHAPTBR85JBXZY"
+	// SecretKey ... s3 tracsaction key
+	SecretKey = "g0fnOS2MIGSZ5QBcQcSZWmVeMY3PCbrUGBJv0yIX"
 )
 
 // CKEProvider ...
